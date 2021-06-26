@@ -11,6 +11,13 @@ body {
   background-position: top center;
 }
 
+img.avatar {
+border-radius: 90%;
+border-color: #13b596;
+
+}
+
+
 .container {
   max-width: 928px;
   margin: 0 auto;
@@ -30,7 +37,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: #ffffff;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -124,14 +131,14 @@ body {
   height: 14px;
   font-size: 0;
   background-color: #ffffff;
-  border: 1px solid #86c3fa;
+  border: 1px solid #ffffff;
   border-radius: 8px;
 }
 
 .level div {
   margin: 1px;
   height: 12px;
-  background-color: #288be6;
+  background-color: #ffffff;
   border-radius: 6px;
 }
 
