@@ -6,7 +6,6 @@ body {
   line-height: 32px;
   color: #ffffff;
   background-color: #08081b;
-  background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -14,7 +13,6 @@ body {
 img.avatar {
 border-radius: 90%;
 border-color: #13b596;
-
 }
 
 
@@ -125,6 +123,11 @@ border-color: #13b596;
   background-image: url("img/icon-css.svg");
 }
 
+.skill-javascript{
+  background-image: url("img/icon-javascript.svg");
+}
+
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
@@ -138,7 +141,7 @@ border-color: #13b596;
 .level div {
   margin: 1px;
   height: 12px;
-  background-color: #ffffff;
+  background-color: #13b596;
   border-radius: 6px;
 }
 
