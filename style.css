@@ -19,6 +19,8 @@ box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
 opacity: .5;
 }
 
+
+
 .example-shadow {
   display: inline-block;
   padding: 15px 15px;
@@ -139,7 +141,6 @@ opacity: .5;
   background-image: url("img/icon-javascript.svg");
 }
 
-
 .level {
   margin: 4px 0 16px;
   padding: 0;
@@ -156,6 +157,12 @@ opacity: .5;
   background-color: #13b596;
   border-radius: 6px;
 }
+
+.keys {
+  border: 1px;
+  border-radius: 90%;
+}
+  
 
 .portfolio {
   margin: 0 0 120px;
